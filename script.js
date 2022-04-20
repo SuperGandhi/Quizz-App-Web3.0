@@ -1,13 +1,13 @@
 const quizData = [
     {
-        question: "So this is?",
-        a : '1',
-        b : '2',
-        c : '3',
-        d : 'Mas de 4🐷',
+        question: "What is the difference between web1, web2 and web3?",
+        a : '',
+        b : '',
+        c : '',
+        d : '',
         correct: 'a'
     }, {
-        question: "Where is the Web3?",
+        question: "Is Web 3.0 all hype?",
         a: 'server',
         b: 'app',
         c: 'database',
@@ -15,14 +15,14 @@ const quizData = [
         correct: 'a' 
     },
     {
-        question: "How old is Florias?",
+        question: "Do you need crypto to build dapps?",
         a : '10',
         b : '12',
         c : '13',
         d : '14',
         correct: 'd'
     }, {
-        question: "How is the most important thing in the world?",
+        question: "How do dapps work?",
         a: 'the sun',
         b: 'island',
         c: 'ocean',
@@ -30,14 +30,14 @@ const quizData = [
         correct: 'c' 
     },
     {
-        question: "Where do you live?",
+        question: "How does user authentication work?",
         a : '10',
         b : '12',
         c : '13',
         d : '14',
         correct: 'd'
     }, {
-        question: "Whats going to happen?",
+        question: "What is a token or NFT?",
         a: 'go to hell',
         b: 'to hell',
         c: 'will happen',
@@ -45,14 +45,14 @@ const quizData = [
         correct: 'c' 
     },
     {
-        question: "When do you have?",
+        question: "How to build a Web3 Frontend?",
         a : '10',
         b : '12',
         c : '13',
         d : '14',
         correct: 'd'
     }, {
-        question: "How did your spelling go?",
+        question: "How to build a Web3 Backend?",
         a: 'did not go well',
         b: 'went well',
         c: 'just fine',
@@ -60,14 +60,22 @@ const quizData = [
         correct: 'c' 
     },
     {
-        question: "How old is Florias?",
+        question: "How do I test a dapp with Ethereum?",
         a : '10',
         b : '12',
         c : '13',
         d : '14',
         correct: 'd'
     }, {
-        question: "Where do you live?",
+        question: "How do I test a dapp with Ethereum?",
+        a: 'New York',
+        b: 'San Francisco',
+        c: 'Chicago',
+        d: 'Toronto',
+        correct: 'c' 
+    },
+    {
+        question: "Where to start?",
         a: 'New York',
         b: 'San Francisco',
         c: 'Chicago',

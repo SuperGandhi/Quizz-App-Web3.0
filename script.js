@@ -1,26 +1,26 @@
 const quizData = [
     {
-        question: "What is the difference between web1, web2 and web3?",
-        a : '',
-        b : '',
-        c : '',
-        d : '',
-        correct: 'a'
+        question: "What is web 3.0?",
+        a : 'They are simple speculations',
+        b : 'It is the next technological generation of the web',
+        c : 'It is the evolution of web 2.0, characterized mainly by the decentralization of data, supported by blockchain technology.',
+        d : 'It is the replacement of obsolete technologies related to web 2.0',
+        correct: 'c'
     }, {
-        question: "Is Web 3.0 all hype?",
-        a: 'server',
-        b: 'app',
-        c: 'database',
-        d: 'server',
-        correct: 'a' 
+        question: "What are the main characteristics of web 3.0?",
+        a: 'fun, fast, simple, multipurpose',
+        b: 'problematic, restrictive, obsolete, dangerous',
+        c: 'closed, without user participation, with permission, exclusive',
+        d: 'open,trustless,permissionless,ubiquitous',
+        correct: 'd' 
     },
     {
-        question: "Do you need crypto to build dapps?",
-        a : '10',
-        b : '12',
-        c : '13',
-        d : '14',
-        correct: 'd'
+        question: "What is The Difference Between Web 1.0, Web 2.0, and Web 3.0?",
+        a : 'Web 1.0:interact, Web 2.0:interact and share your information, Web 3.0: very difficult to use',
+        b : 'Web 1.0:read only web, Web 2.0:read-write Web, Web 3.0: read,write and interact with websites including 3D visuals ',
+        c : 'Web 1.0:read only web, Web 2.0:read-write Web, Web 3.0: read,write and interact with websites including 3D visuals ',
+        d : 'Web 1.0:read only web, Web 2.0:read-write Web, Web 3.0: read,write and interact with websites including 3D visuals',
+        correct: 'c'
     }, {
         question: "How do dapps work?",
         a: 'the sun',
